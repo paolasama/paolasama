@@ -70,8 +70,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://tenor.com/es-419/view/tux-linux-penguin-computer-typing-busy-gif-13909126"  />
-</div>
+<div class="tenor-gif-embed" data-postid="26002758" data-share-method="host" data-aspect-ratio="0.85" data-width="100%"><a href="https://tenor.com/view/supertux-speen-tux-rustybox-st-gif-26002758">Supertux Speen GIF</a>from <a href="https://tenor.com/search/supertux-gifs">Supertux GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
