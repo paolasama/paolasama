@@ -57,8 +57,8 @@
 ###
 
 <div align="center">
-  <a href="[https://open.spotify.com/user/Paola Samaniego](https://open.spotify.com/playlist/2oyb5akfYIwKK3YzR8yDr0)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Paola%20Samaniego&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Paola Samaniego">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22m4y3ce6zegec4efevy7fnya" alt="Spotify recently played"  />
   </a>
 </div>
 
