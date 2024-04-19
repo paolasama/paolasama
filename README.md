@@ -70,7 +70,7 @@
 
 ###
 <div align="center">
-  <img height="200" src="![Uploading supertux-speen.gif…]()
+  <img height="200" src="![descarga](https://github.com/paolasama/paolasama/assets/115908451/760a17f8-68ed-46ef-9bf7-94485bfb9df3)
 "  />
 </div>
 
