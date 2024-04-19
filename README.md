@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/6wyU.gif"  />
+  <img height="200" src="https://tenor.com/es-419/view/tux-linux-penguin-computer-typing-busy-gif-13909126"  />
 </div>
 
 ###
