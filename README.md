@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">social networks</h2>
+<h2 align="left">Social networks</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">programming language</h2>
+<h2 align="left">Programming language</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">framework</h2>
+<h2 align="left">Framework</h2>
 
 ###
 <div align="left">
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">database and operating system</h2>
+<h2 align="left">Database and operating system</h2>
 
 ###
 
