@@ -81,6 +81,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paolasama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolasama&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   <a href="https://open.spotify.com/user/22m4y3ce6zegec4efevy7fnya">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22m4y3ce6zegec4efevy7fnya&unique={true|1|on|yes}" alt="Spotify recently played"  />
