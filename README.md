@@ -95,7 +95,6 @@
   </a>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolasama&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-  [![](https://visitcount.itsvg.in/api?id=paolasama&icon=2&color=12)](https://visitcount.itsvg.in)
 
 </div>
 
