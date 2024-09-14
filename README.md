@@ -93,6 +93,10 @@
   <a href="https://open.spotify.com/user/22m4y3ce6zegec4efevy7fnya">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22m4y3ce6zegec4efevy7fnya&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolasama&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+  [![](https://visitcount.itsvg.in/api?id=paolasama&icon=2&color=12)](https://visitcount.itsvg.in)
+
 </div>
 
 ###
