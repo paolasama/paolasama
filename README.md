@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Paola and I'm a Estudiante, from Mexico </p>
+<p align="left">My name is Paola, and I hold a degree in Software Development from Mexico.</p>
 
 ###
 
