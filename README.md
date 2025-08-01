@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Paola, and I hold a degree in Software Development from Mexico.</p>
+<p align="left">My name is Paola, and I'm a recent graduate in Software Development from Mexico.</p>
 
 ###
 
@@ -11,7 +11,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning java<br>🎯 Goals: to finish my degree of study<br>🎲 Fun fact: watching me make mistakes</p>
+<p align="left">
+✨ Software development enthusiast since 2020<br>
+📚 Currently deepening my knowledge in Java<br>
+🎯 Goal: Develop scalable fullstack applications and grow professionally<br>
+🎲 Passionate about learning through building and problem-solving
+</p>
 
 ###
 
